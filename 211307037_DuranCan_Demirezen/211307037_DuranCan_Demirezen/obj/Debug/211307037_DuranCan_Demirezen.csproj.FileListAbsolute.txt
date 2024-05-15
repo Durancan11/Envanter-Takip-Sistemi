@@ -1,0 +1,6 @@
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\211307037_DuranCan_Demirezen\bin\Debug\211307037_DuranCan_Demirezen.exe
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\211307037_DuranCan_Demirezen\bin\Debug\211307037_DuranCan_Demirezen.pdb
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\211307037_DuranCan_Demirezen\obj\Debug\211307037_DuranCan_Demirezen.csproj.AssemblyReference.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\211307037_DuranCan_Demirezen\obj\Debug\211307037_DuranCan_Demirezen.csproj.CoreCompileInputs.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\211307037_DuranCan_Demirezen\obj\Debug\211307037_DuranCan_Demirezen.exe
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\211307037_DuranCan_Demirezen\obj\Debug\211307037_DuranCan_Demirezen.pdb

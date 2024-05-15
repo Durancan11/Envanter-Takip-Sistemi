@@ -1,0 +1,5 @@
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\InventoryManagementApp\obj\Debug\InventoryManagementApp.csproj.AssemblyReference.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\InventoryManagementApp\obj\Debug\InventoryManagementApp.MainForm.resources
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\InventoryManagementApp\obj\Debug\InventoryManagementApp.Properties.Resources.resources
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\InventoryManagementApp\obj\Debug\InventoryManagementApp.csproj.GenerateResource.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\InventoryManagementApp\obj\Debug\InventoryManagementApp.csproj.CoreCompileInputs.cache

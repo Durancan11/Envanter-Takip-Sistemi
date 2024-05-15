@@ -1,0 +1,5 @@
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

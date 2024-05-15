@@ -1,0 +1,9 @@
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\bin\Debug\envanter1.exe
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\bin\Debug\envanter1.pdb
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.csproj.AssemblyReference.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.Form1.resources
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.Properties.Resources.resources
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.csproj.GenerateResource.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.csproj.CoreCompileInputs.cache
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.exe
+C:\Users\Duran Can\Desktop\211307037_DuranCan_Demirezen\envanter1\obj\Debug\envanter1.pdb
